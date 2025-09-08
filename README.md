@@ -48,9 +48,6 @@ The system supports task priorities, statuses, comments, and user assignment.
 - Maven
 - REST API
 
-- Perfect 👍 InshAllah this README will give you a clean structure for your APIs and you can just add screenshots later. I’ll make it fully in **Markdown** format with proper `#` headers.
-
-Here’s your **README.md** draft:
 
 ---
 
